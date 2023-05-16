@@ -8,7 +8,7 @@
 
 ## Tech Stack
 
-- flutter
+# - flutter
 
 
 ## Features
