@@ -1,5 +1,26 @@
-- ![Screenshot (114)](https://github.com/AryaGunawann/uts-mobile-flutter/assets/113499162/4fc2d03e-520d-4a4d-8492-55ae7d403fd9)
+# UTS MOBILE FLUTTER (LOGIN AND REGISTRASI PAGE)
 
-- ![Screenshot (115)](https://github.com/AryaGunawann/uts-mobile-flutter/assets/113499162/b76204d9-393e-4abb-acc4-835eb5f791bc)
+**_NAMA: Muhammad Arya Dipanegara Gunawan_** <br/>
+**_NIM: 312110396_** <br/>
+**_KELAS: TI.21.A3_** <br/>
 
-- ![Screenshot (116)](https://github.com/AryaGunawann/uts-mobile-flutter/assets/113499162/17869f70-6066-4249-b6a5-5a10ac6f08d1)
+</br>
+
+## Tech Stack
+
+- flutter
+
+
+## Features
+# - Page Login
+![Screenshot (114)](https://github.com/AryaGunawann/uts-mobile-flutter/assets/113499162/8217856f-5a3c-4a93-9194-07703adfcd7c)
+
+</br>
+
+# - Page Create Account
+![Screenshot (115)](https://github.com/AryaGunawann/uts-mobile-flutter/assets/113499162/9b384f88-dbe3-45a3-8442-31becb733039)
+
+</br>
+
+# - Page Forgot Password
+![Screenshot (116)](https://github.com/AryaGunawann/uts-mobile-flutter/assets/113499162/70ea7f39-6297-4d2a-b5f5-45449197efff)
